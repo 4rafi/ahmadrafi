@@ -1,5 +1,5 @@
 ---
-title: anak foler Title
+title: child Title
 aliases:
 description:
 draft: false
@@ -7,4 +7,3 @@ date:
 tags:
   - example-tag
 ---
-[[child note]]
