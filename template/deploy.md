@@ -1,0 +1,1 @@
+C:\Users\Windows10\Documents\Personal Blog\ahmadrafi>npx quartz sync
