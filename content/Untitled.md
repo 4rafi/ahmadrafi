@@ -1,9 +1,8 @@
 ---
 title: Example Title
 aliases:
-description:
-draft: false
+draft: true
 date:
 tags:
-  - example-tag
 ---
+tes note in draft

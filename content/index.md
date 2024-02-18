@@ -2,9 +2,7 @@
 title: About Rafi
 ---
 [[Untitled]]
-[[about me]]
+about me
+[[not in draft]]
 
 [[book notes|book notes]]
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
