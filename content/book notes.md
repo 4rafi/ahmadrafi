@@ -1,7 +1,10 @@
 ---
 title: Book rafi read in 2024
 ---
-[[test]]
+List of books i want to read
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+> [!NOTE] Books i want to read
+> - 
+
+## Books i read:
+### 2024
